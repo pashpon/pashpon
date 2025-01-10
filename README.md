@@ -2,7 +2,7 @@
 
 ---
 
-**fash** get a wonderful code tool
+get a wonderful code tool
 
 ---
 
@@ -29,25 +29,15 @@
 ---
 
 ## install
-
-提供安装说明：  
+  
 ```bash
-# 克隆项目
-git clone https://github.com/username/repo.git
-
-# 进入目录
-cd repo
-
-# 安装依赖
-npm install
-
-# 启动项目
-npm start
+# pits
+no source.
 ```
 
 ### book
 
-简要介绍使用方法或示例。
+all protocols can be found in pashpon and its related agreements.
 
 ---
 
@@ -70,4 +60,4 @@ pashpon@qq.com
 
 ## license
 
-本项目基于 [MIT License](LICENSE) 开源，欢迎使用。  
+[MIT License](LICENSE) 
